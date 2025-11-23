@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment
+fraud_detection_env/
+venv/
+env/
+*.egg-info/
+
+
+# Data files (keep out of Git)
+*.csv
+*.parquet
+*.xlsx
+*.json
+
+# Logs
+*.log
+
+# VS Code / IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db
